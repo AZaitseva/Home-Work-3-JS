@@ -1,0 +1,12 @@
+body{
+    background-color:  #eee9e2;
+}
+
+.item{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+}
+.item_card{
+    background-color: blueviolet;
+}
